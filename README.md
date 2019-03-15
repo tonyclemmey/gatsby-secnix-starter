@@ -3,6 +3,9 @@
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
+  <a href="https://www.secnix.com">
+    <img alt="Secnix" src="https://www.secnix.com/wp-content/themes/secnixwordpress/assets/images/secnix-new.svg" height="60" />
+  </a>
 </p>
 <h1 align="center">
   Gatsby Secnix Starter
