@@ -11,7 +11,7 @@
   Gatsby Secnix Starter
 </h1>
 
-Kick off your project with this Gatsby Secnix boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React. Also including Bootstrap, Reactstrap, FontAwesome.
+Kick off your project with this Gatsby Secnix Starter. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React. Also including Bootstrap 4, Reactstrap 7 and Font Awesome 5.
 
 ## 🚀 Quick start
 
